@@ -1,8 +1,4 @@
-Clean the septic tank
-Clean the trace
-Implement the edit button
-New task added
-fourth task
-Blank task edited
-Celebrate Manu birthday, bring the cake
-Bring bycycle today
+Clean the trace today
+Edit and complete button implemented
+Manu's bycycle repaired
+This is final todo
